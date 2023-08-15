@@ -16,6 +16,8 @@ public class GameProject {
      */
     public static void main(String[] args) {
         new GameFrame();
+        //new comment line is added.
+        //The comment line added into project for git documant
     }
     
 }
