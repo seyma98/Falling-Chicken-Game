@@ -38,7 +38,8 @@ int x[]=new int[GAME_UNITS];
  int eggY[]=new int[GAME_UNITS];
 
 int catNumber=16;
-int point;
+int point=0;
+int git=1;
 int newVarible;
 int catX[]=new int[GAME_UNITS];
 int catY[]=new int[GAME_UNITS];
